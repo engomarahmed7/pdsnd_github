@@ -18,6 +18,5 @@ Thanks to the rise in information technologies, it is easy for a user of the sys
 * Microsoft Excel
 * Git Version Control System
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
 
